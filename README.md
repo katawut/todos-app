@@ -1,6 +1,6 @@
 # todos-app
 
-Small todos app written by javascript.
+Pure javascript todos app.
 
 ## Features
 
